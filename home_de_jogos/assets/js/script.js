@@ -3,7 +3,7 @@ function abrirJogo(url) {
 }
 
 function playHihi() {
-    
+    const audio = document.getElementById('hihi-audio');
     audio.play();
-    alert('pobreeeeeee 😂😂😂🤣 ')  ;
+    alert('Michael Jackson: Hihi!');
 }
